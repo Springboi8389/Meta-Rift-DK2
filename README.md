@@ -1,4 +1,4 @@
-Oculus Rift Development Kit 2
+Meta Rift Development Kit 2
 =======
 
 Firmware, electrical CAD, mechanical CAD, artwork, and documentation for DK2.
@@ -8,10 +8,10 @@ License
 The CAD, artwork, and documentation are released under Creative Commons
 Attribution 4.0 International.
 
-The Oculus firmware is licensed under the BSD-style license at
+The Meta/Oculus firmware is licensed under the BSD-style license at
 https://github.com/fbsamples/RiftDK2/blob/master/Headset/Firmware/LICENSE
 
-We also provide for the Oculus firmware an additional grant of patent rights at
+We also provide for the Meta/Oculus firmware an additional grant of patent rights at
 https://github.com/fbsamples/RiftDK2/blob/master/Headset/Firmware/PATENTS
 
 The firmware incorporates or references materials of third parties that are
